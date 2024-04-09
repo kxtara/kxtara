@@ -18,9 +18,9 @@ I'm a frontend developer with knowledge in React, Sass, TailwindCSS, and REST AP
 
 ## Projects
 Here are some of the projects I'm working on:
+- **AnonMessage** -  Application that integrates both Email-SMS functionality for supported carriers and anonymous email services for unsupported carriers.
+- **Simbyosis** -  Application facilitating peer-to-peer (P2P) transactions with a comprehensive array of features.
 - **progRESTmate** -  todo app in progress...
-- **RefreshReminder** -  app designed to remind users to shower regularly in progress...
-- **Simbyosis** -  marketplace app
 
 ## Connect with Me
 - 📫 You can reach me via email at [Kiara Hoheb](kiarahoheb0@gmail.com).
