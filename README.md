@@ -1,26 +1,99 @@
-### Hello, I'm Kiara Hoheb 👋
+<!-- HEADER -->
+<h1 align="center">✨ Hi, I'm Kiara ✨</h1>
+<h3 align="center">Software Engineer | Full-Stack & API Development</h3>
 
-I'm a frontend developer with knowledge in React, Sass, TailwindCSS, and REST APIs. Welcome to my profile!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+with+TypeScript+%26+Node.js;React+%2B+APIs;Always+Learning+%26+Building&center=true&width=520&height=45">
+</p>
 
-## About Me
-- Currently, I'm engaged in projects involving React and Node.js as I venture into backend development.
-- My next exploration will be delving into TypeScript.
--  🛠️ I enjoy learning through problem-solving and building projects.
-- 🌱 I have a passion for photography and gardening.
-- 💬 Don't hesitate to reach out if you have inquiries or wish to collaborate.
+---
 
-## Tech Stack
-- 💻 **Languages:** JavaScript | React | Node.js | Express
-- 🎨 **Styling:** Sass | Tailwind CSS
-- 📦 **Databases:** MongoDB | Mongoose
-- 🌐 **Frontend:** HTML | CSS | Tailwind CSS | RESTful APIs
-- 🛠️ **Tools:** Git | GitHub
+## 🧠 About Me
 
-## Projects
-Here are some of the projects I'm working on:
-- **AnonMessage** -  Application that integrates both Email-SMS functionality for supported carriers and anonymous email services for unsupported carriers.
-- **Simbyosis** -  Application facilitating peer-to-peer (P2P) transactions with a comprehensive array of features.
-- **progRESTmate** -  todo app in progress...
+- 🎓 Computer Science student  
+- 🛠️ Software engineer focused on **clean, scalable applications**
+- 🚀 Building full-stack apps with **React, Node.js, TypeScript, and SQL**
+- 📚 Actively expanding my backend and systems knowledge
+- 💡 Interested in maintainable code, strong architecture, and real-world projects
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 User Management API
+> REST API built with Express, TypeScript, PostgreSQL, and Swagger
+
+- CRUD operations
+- Typed controllers & models
+- SQL-based data access
+- Interactive API documentation
+
+🔗 **Repository:** _Coming soon_
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Runtime
+- **JavaScript**
+- **TypeScript**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
+---
+
+### ⚙️ Backend
+- **Node.js**
+- **Express**
+- **RESTful APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+---
+
+### 📦 Databases
+- **PostgreSQL (SQL)**
+- **MongoDB**
+- **Mongoose**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 🌐 Frontend
+- **React**
+- **HTML**
+- **CSS**
+- **Tailwind CSS**
+- **Sass**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+---
+
+### 🧰 Tools & Dev Experience
+- **Git**
+- **GitHub**
+- **Swagger / OpenAPI**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+---
+
+## 🌱 Currently Learning
+
+- ☕ **Java**
+- ⚙️ **C++**
+- 🌱 **Spring Boot**
+- 📐 Data structures & software design principles
+
+---
 
 ## Connect with Me
 - 📫 You can reach me via email at [Kiara Hoheb](kiarahoheb0@gmail.com).
