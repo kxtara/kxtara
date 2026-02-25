@@ -20,15 +20,17 @@
 
 ## 📌 Featured Projects
 
-### 🔹 User Management API
-> REST API built with Express, TypeScript, PostgreSQL, and Swagger
+### 🧹 EmailSweep (Gmail Sanitization Engine)
+> Cloud-native REST API built with Node.js, Google OAuth2, and the Gmail REST API
 
-- CRUD operations
-- Typed controllers & models
-- SQL-based data access
-- Interactive API documentation
+⚠️ **Project Status:** *In Active Development (Internal Beta)* *Currently engineering the core sweeping logic and optimizing batch API requests.*
 
-🔗 **Repository:** _Coming soon_
+- **OAuth2 Lifecycle:** Secure authentication flow handling token exchange and automatic refresh cycles.
+- **Gmail API Integration:** Advanced filtering and batch-processing to identify and "sweep" promotional clutter.
+- **Security-First Design:** Implemented restricted-scope management (`gmail.modify`) to safely move junk to Trash without permanent data loss.
+- **Rate Limit Optimization:** Engineered to handle high-volume mailboxes through request batching and exponential backoff.
+
+🔗 **Repository:** [github.com/your-username/emailsweep](https://github.com/your-username/emailsweep)
 
 ---
 
