@@ -30,7 +30,7 @@
 - **Security-First Design:** Implemented restricted-scope management (`gmail.modify`) to safely move junk to Trash without permanent data loss.
 - **Rate Limit Optimization:** Engineered to handle high-volume mailboxes through request batching and exponential backoff.
 
-🔗 **Repository:** [github.com/your-username/emailsweep](https://github.com/your-username/emailsweep)
+🔗 **Repository:** [github.com/kxtara/emailsweep](https://github.com/kxtara/emailsweep)
 
 ---
 
